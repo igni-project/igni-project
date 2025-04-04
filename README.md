@@ -18,3 +18,6 @@ CQP (Collision Query Protocol) enables processes to remotely trigger hitboxes in
 
 A server that broadcasts any recieved data to all clients
 
+### Ignition
+
+Ignition is a debugging tool for SUP applications. It prints out SUP data in a format that is readable to the end user.
