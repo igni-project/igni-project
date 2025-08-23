@@ -1,5 +1,3 @@
-![Igni logo](igni.png)
-
 #### Welcome to [the Igni project](http://igni-project.org) — an open source project which aims to further advance the field of spatial computing.
 
 ## Projects
