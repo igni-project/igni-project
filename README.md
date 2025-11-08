@@ -2,24 +2,24 @@
 
 ## Projects
 
-### The [Igni Sytstem](igni-system.md)
+### The [Igni System](igni-system.md)
 
 Everything made by the Igni project ties or will tie into a singular, interconnected system of software. The Igni system is a fully free and open-source spatial computing environment.
 
-### Scene Update Protocol
+### [Scene Update Protocol](https://github.com/igni-project/sup)
 
 SUP (Scene Update Protocol) is a communication protocol used to send 3D graphics over a network.
 
-### Collision Query Protocol
+### [Collision Query Protocol](https://github.com/igni-project/cqp)
 
 CQP (Collision Query Protocol) enables processes to remotely trigger hitboxes in other processes.
 
-### UDScast
+### [udscast](https://github.com/igni-project/udscast)
 
 A server that broadcasts any recieved data to all clients
 
-### Ignition
+### [Ignition-db](https://github.com/igni-project/ignition-db)
 
-Ignition is a debugging tool for SUP applications. It prints out SUP data in a format that is readable to the end user.
+Ignition-db is a debugging tool for SUP (Scene Update Protocol) applications. It prints out SUP data in a format that is readable to the end user.
 
 
