@@ -1,10 +1,16 @@
-#### Welcome to [the Igni project](http://igni-project.org) — an open source project which aims to further advance the field of spatial computing.
+#### Welcome to [the Igni project](http://igni-project.org) — an open source project which creates new technology.
 
-## Projects
+aims to further advance the field of spatial computing.
+
+## Software
 
 ### The [Igni System](igni-system.md)
 
 Everything made by the Igni project ties or will tie into a singular, interconnected system of software. The Igni system is a fully free and open-source spatial computing environment.
+
+### [SceneShare](https://github.com/igni-project/sceneshare)
+
+### [SetLauncher](https://github.com/igni-project/setlauncher)
 
 ### [Scene Update Protocol](https://github.com/igni-project/sup)
 
