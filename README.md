@@ -1,4 +1,4 @@
-#### Welcome to [the Igni project](http://igni-project.org) — an open source project which creates new technology to further advance the field of spatial computing.
+#### Welcome to [the Igni project](http://igni-project.org) — an open source project to further advance the field of spatial computing.
 
 ### The [Igni System](igni-system.md)
 
